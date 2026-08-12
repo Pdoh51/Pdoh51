@@ -119,18 +119,7 @@ Atuei apoiando outros alunos no aprendizado de lógica de programação, ajudand
 
 </div>
 
----
 
-### 🌱 Foco atual
-
-```yaml
-Aprendendo: "Aprofundando React, Node.js e boas práticas de backend"
-Construindo: "Ritual Manager, em parceria com colegas de curso"
-Explorando: "Boas práticas de arquitetura Full Stack"
-Aberto a: "Estágios em desenvolvimento Full Stack"
-```
-
----
 
 ### 📫 Conecte-se comigo
 
@@ -142,11 +131,9 @@ Aberto a: "Estágios em desenvolvimento Full Stack"
 
 </div>
 
----
+
 
 <div align="center">
-
-*"Um projeto de cada vez, uma linha de código de cada vez."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
