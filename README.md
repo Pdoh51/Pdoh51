@@ -69,8 +69,8 @@ Plataforma inspirada no universo de **Ordem Paranormal**, desenvolvida em parcer
 | **Stack** | React, Tailwind CSS, Node.js, Express, Supabase, JWT |
 | **Tipo** | Projeto em parceria (Full Stack) |
 | **Funcionalidades** | Autenticação de usuários, favoritar rituais, comentários e interação, busca e organização de conteúdo, interface responsiva |
-| **Projeto** | [Acessar](https://lnkd.in/dT-M-wti) |
-| **Repositório** | [Acessar](https://lnkd.in/dBXbCUnW) |
+| **Projeto** | [Acessar](https://ritual-manager.vercel.app/) |
+| **Repositório** | [Acessar](https://github.com/Sadzin1603/RitualManager) |
 
 **Principais funcionalidades desenvolvidas:**
 - ⚡ Sistema de autenticação de usuários
