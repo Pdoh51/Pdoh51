@@ -25,24 +25,36 @@ Tenho experiência prática com **React, Node.js, Python e Java**. Já atuei com
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Linguagens & 🎓 Experiência
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <div align="center">
 
 **Linguagens**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react&theme=dark" />
-
-**Backend & Banco de Dados**
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs,express,tailwind,postgres&theme=dark" />
 
 </div>
 
+</td>
+<td width="50%" valign="top">
+
+**🎓 Experiência acadêmica**
+
+Monitor de Algoritmo e Lógica de Programação — Fatec ZL
+
+Atuei apoiando outros alunos no aprendizado de lógica de programação, ajudando a esclarecer dúvidas sobre algoritmos, estruturas de controle e resolução de problemas.
+
+**🎨 Projeto de UX/UI**
+
+Participei do design de interface de um projeto, trabalhando na construção da experiência visual junto com a documentação do processo de design *(sem certificado formal)*.
+
+</td>
+</tr>
+</table>
 ---
 
 ### 🚀 Projeto em destaque
