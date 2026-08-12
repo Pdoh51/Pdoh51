@@ -2,17 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pedro%20Silva&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20ADS%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Full+Stack+Developer+em+forma%C3%A7%C3%A3o;Aprendendo+e+construindo+um+projeto+de+cada+vez" />
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Full+Stack+Developer+em+forma%C3%A7%C3%A3o;Aprendendo+e+construindo+um+projeto+de+cada+vez" />
 
 ![Fatec ZL](https://img.shields.io/badge/Fatec_ZL-ADS-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
 ![Localização](https://img.shields.io/badge/São_Paulo-SP,_Brasil-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-h-silva-s-02b533303/)
-[![Email](https://img.shields.io/badge/Email-Contato-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phss.henriquesantos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/pedro-h-silva-s-02b533303/)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:phss.henriquesantos@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pdoh51)
 
 
