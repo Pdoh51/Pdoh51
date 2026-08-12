@@ -15,10 +15,7 @@
 [![Email](https://img.shields.io/badge/Email-Contato-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phss.henriquesantos@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pdoh51)
 
-<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pdoh51&color=6D28D9&style=flat-square&label=Visualizações+do+perfil)
-![Followers](https://img.shields.io/github/followers/Pdoh51?color=7C3AED&style=flat-square&label=Seguidores)
 
 </div>
 
