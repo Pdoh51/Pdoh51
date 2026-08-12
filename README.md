@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Full+Stack+Developer+em+forma%C3%A7%C3%A3o;Aprendendo+e+construindo+um+projeto+de+cada+vez" />
 
-<br/>
+
 
 ![Fatec ZL](https://img.shields.io/badge/Fatec_ZL-ADS-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
 ![Localização](https://img.shields.io/badge/São_Paulo-SP,_Brasil-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
