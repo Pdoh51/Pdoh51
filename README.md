@@ -25,22 +25,22 @@ Tenho experiência prática com **React, Node.js, Python e Java**. Já atuei com
 
 ---
 
-### 🛠️ Linguagens & 🎓 Experiência
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
 <div align="center">
 
 **Linguagens**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs,express,tailwind,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=java,react,nodejs,express&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=tailwind,postgres&theme=dark" />
 
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="65%" valign="top">
 
 **🎓 Experiência acadêmica**
 
@@ -55,7 +55,6 @@ Participei do design de interface de um projeto, trabalhando na construção da 
 </td>
 </tr>
 </table>
----
 
 ### 🚀 Projeto em destaque
 
