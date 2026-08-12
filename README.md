@@ -35,7 +35,7 @@ Tenho experiência prática com **React, Node.js, Python e Java**. Já atuei com
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" />
 
 **Backend & Banco de Dados**
 
