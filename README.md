@@ -55,7 +55,7 @@ Tenho experiência prática com **React, Node.js, Python e Java**. Já atuei com
 
 ### 🚀 Projeto em destaque
 
-<details open>
+<details >
 <summary><b>🔮 Ritual Manager</b></summary>
 <br/>
 
@@ -91,6 +91,10 @@ Atuei apoiando outros alunos no aprendizado de lógica de programação, ajudand
 
 ### 📜 Certificações
 
+<details>
+<summary><b>📁 Certificados</b></summary>
+<br/>
+
 ![Bradesco](https://img.shields.io/badge/Bradesco-Escola_Virtual-CC092F?style=flat-square&logo=bradesco&logoColor=white)
 
 - Introdução à Programação Orientada a Objetos — Escola Virtual Bradesco
@@ -98,6 +102,8 @@ Atuei apoiando outros alunos no aprendizado de lógica de programação, ajudand
 ![Fatec](https://img.shields.io/badge/Fatec_ZL-Certificado-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
 
 - Certificado de Monitoria — Algoritmo e Lógica de Programação
+
+</details>
 
 ---
 
