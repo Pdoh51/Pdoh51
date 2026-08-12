@@ -27,7 +27,7 @@ Tenho experiência prática com **React, Node.js, Python e Java**. Já atuei com
 
 <table>
 <tr>
-<td width="35%" valign="top">
+<td width="35%" valign="middle">
 
 <div align="center">
 
