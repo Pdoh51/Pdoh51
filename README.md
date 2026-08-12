@@ -89,10 +89,8 @@ Atuei apoiando outros alunos no aprendizado de lógica de programação, ajudand
 
 ---
 
-### 📜 Certificações
-
 <details>
-<summary><b>📁 Certificados</b></summary>
+<summary><h3>📜 Certificações</h3></summary>
 <br/>
 
 ![Bradesco](https://img.shields.io/badge/Bradesco-Escola_Virtual-CC092F?style=flat-square&logo=bradesco&logoColor=white)
@@ -106,10 +104,6 @@ Atuei apoiando outros alunos no aprendizado de lógica de programação, ajudand
 </details>
 
 ---
-
-</div>
-
-
 
 <div align="center">
 
