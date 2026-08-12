@@ -42,7 +42,7 @@ Tenho experiência prática com **React, Node.js, Python e Java**. Já atuei com
 </td>
 <td width="65%" valign="top">
 
-**Experiência acadêmica**
+**🎓 Experiência acadêmica**
 
 Monitor de Algoritmo e Lógica de Programação — Fatec ZL
 
@@ -84,13 +84,6 @@ Plataforma inspirada no universo de **Ordem Paranormal**, desenvolvida em parcer
 
 ---
 
-### 🎓 Experiência acadêmica
-
-**Monitor de Algoritmo e Lógica de Programação** — Fatec ZL
-
-Atuei apoiando outros alunos no aprendizado de lógica de programação, ajudando a esclarecer dúvidas sobre algoritmos, estruturas de controle e resolução de problemas.
-
----
 <details>
   
 <summary><h3>📜 Certificações</h3></summary>
