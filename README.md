@@ -108,15 +108,6 @@ Atuei apoiando outros alunos no aprendizado de lógica de programação, ajudand
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pdoh51&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pdoh51&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pdoh51&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%" />
-
 </div>
 
 
