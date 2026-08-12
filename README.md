@@ -28,9 +28,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas na Fatec ZL** e venho construindo minha base como **desenvolvedor Full Stack**, com foco em transformar ideias em aplicações funcionais, do frontend ao backend.
 
-Tenho experiência prática com **React, Node.js, Python e Java**, e gosto de entender o ciclo completo de um projeto — desde a interface até a integração com banco de dados. Já atuei como **monitor de Algoritmo e Lógica de Programação** na faculdade, o que reforçou minha base em lógica e me deu prática em explicar conceitos técnicos de forma clara.
-
-**🎯 Aberto a:** oportunidades de estágio em desenvolvimento Full Stack, projetos colaborativos e trocas de conhecimento com outros devs.
+Tenho experiência prática com **React, Node.js, Python e Java**. Já atuei como **monitor de Algoritmo e Lógica de Programação** na faculdade, o que reforçou minha base em lógica de programação e visão de como solucionar problemas de diferentes formas.
 
 ---
 
