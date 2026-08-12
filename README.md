@@ -33,8 +33,8 @@ Tenho experiência prática com **React, Node.js, Python e Java**. Já atuei com
 
 **Linguagens**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=java,react,nodejs,express&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=java,react,nodejs&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=tailwind,postgres&theme=dark" />
 
 </div>
