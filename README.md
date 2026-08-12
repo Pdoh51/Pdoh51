@@ -87,6 +87,7 @@ Plataforma inspirada no universo de **Ordem Paranormal**, desenvolvida em parcer
 
 Atuei apoiando outros alunos no aprendizado de lógica de programação, ajudando a esclarecer dúvidas sobre algoritmos, estruturas de controle e resolução de problemas.
 
+---
 
 <details>
 <summary><h3>📜 Certificações</h3></summary>
