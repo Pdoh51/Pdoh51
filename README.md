@@ -56,7 +56,7 @@ Participei do design de interface de um projeto, trabalhando na construção da 
 </tr>
 </table>
 
-### 🚀 Projeto em destaque
+## Projeto em destaque
 
 <details >
 <summary><b>🔮 Ritual Manager</b></summary>
