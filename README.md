@@ -39,7 +39,7 @@ Tenho experiência prática com **React, Node.js, Python e Java**. Já atuei com
 
 **Backend & Banco de Dados**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,postgres&theme=dark" />
 
 </div>
 
