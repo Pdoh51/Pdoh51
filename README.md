@@ -42,15 +42,15 @@ Tenho experiência prática com **React, Node.js, Python e Java**. Já atuei com
 </td>
 <td width="65%" valign="top">
 
-**🎓 Experiência acadêmica**
+**Experiência acadêmica**
 
 Monitor de Algoritmo e Lógica de Programação — Fatec ZL
 
 Atuei apoiando outros alunos no aprendizado de lógica de programação, ajudando a esclarecer dúvidas sobre algoritmos, estruturas de controle e resolução de problemas.
 
-**🎨 Projeto de UX/UI**
+**Projeto de UX/UI**
 
-Participei do design de interface de um projeto, trabalhando na construção da experiência visual junto com a documentação do processo de design *(sem certificado formal)*.
+Participei do design de interface de um projeto, trabalhando na construção da experiência visual junto com a documentação do processo de design.
 
 </td>
 </tr>
