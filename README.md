@@ -40,7 +40,7 @@ Tenho experiência prática com **React, Node.js, Python e Java**. Já atuei com
 </td>
 <td width="65%" valign="top">
 
-**🎓 Experiência acadêmica**
+<h2>Experiência acadêmica</h2>
 
 Monitor de Algoritmo e Lógica de Programação — Fatec ZL
 
@@ -54,10 +54,10 @@ Participei do design de interface de um projeto, trabalhando na construção da 
 </tr>
 </table>
 
-## Projeto em destaque
+<h2>Projeto em destaque</h2>
 
 <details >
-<summary><b>🔮 Ritual Manager</b></summary>
+<summary><b>Ritual Manager</b></summary>
 <br/>
 
 Plataforma inspirada no universo de **Ordem Paranormal**, desenvolvida em parceria com um colega de curso. O objetivo do projeto é oferecer uma aplicação **Full Stack** para consulta e gerenciamento de rituais, unindo frontend, backend e banco de dados em um fluxo completo.
