@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pedro%20Silva&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20ADS%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2C2C,100:D3D3D3&height=220&section=header&text=Pedro%20Silva&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20ADS%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Full+Stack+Developer+em+forma%C3%A7%C3%A3o;Aprendendo+e+construindo+um+projeto+de+cada+vez" />
 
