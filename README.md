@@ -15,7 +15,7 @@
 
 ---
 
-### - Sobre mim -
+<h2>- Sobre mim -</h2>
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas na Fatec ZL** e venho construindo minha base como **desenvolvedor Full Stack**, com foco em transformar ideias em aplicações funcionais, do frontend ao backend.
 
