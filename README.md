@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2C2C,100:D3D3D3&height=220&section=header&text=Pedro%20Silva&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20ADS%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Full+Stack+Developer+em+forma%C3%A7%C3%A3o;Aprendendo+e+construindo+um+projeto+de+cada+vez" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=760&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Full+Stack+Developer+em+forma%C3%A7%C3%A3o;Aprendendo+e+construindo+um+projeto+de+cada+vez" />
 
 ![Fatec ZL](https://img.shields.io/badge/Fatec_ZL-ADS-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
 ![Localização](https://img.shields.io/badge/São_Paulo-SP,_Brasil-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
@@ -17,7 +17,7 @@
 
 ---
 
-### 👋 Sobre mim
+### - Sobre mim -
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas na Fatec ZL** e venho construindo minha base como **desenvolvedor Full Stack**, com foco em transformar ideias em aplicações funcionais, do frontend ao backend.
 
@@ -73,12 +73,12 @@ Plataforma inspirada no universo de **Ordem Paranormal**, desenvolvida em parcer
 | **Repositório** | [Acessar](https://github.com/Sadzin1603/RitualManager) |
 
 **Principais funcionalidades desenvolvidas:**
-- ⚡ Sistema de autenticação de usuários
-- ⚡ Favoritar rituais
-- ⚡ Comentários e interação entre usuários
-- ⚡ Busca e organização de informações
-- ⚡ Interface responsiva para desktop e mobile
-- ⚡ Integração entre frontend, backend e banco de dados
+-  Sistema de autenticação de usuários
+-  Favoritar rituais
+-  Comentários e interação entre usuários
+-  Busca e organização de informações
+-  Interface responsiva para desktop e mobile
+-  Integração entre frontend, backend e banco de dados
 
 </details>
 
@@ -99,6 +99,6 @@ Plataforma inspirada no universo de **Ordem Paranormal**, desenvolvida em parcer
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2C2C,100:D3D3D3&height=100&section=footer" width="100%"/>
 
 </div>
